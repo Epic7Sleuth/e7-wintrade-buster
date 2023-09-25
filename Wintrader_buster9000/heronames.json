@@ -1,0 +1,1798 @@
+[
+    {
+        "code": "c0001",
+        "name": "Mercedes(Out of Control)"
+    },
+    {
+        "code": "c0002",
+        "name": "Mercedes(Great Power)"
+    },
+    {
+        "code": "c0006",
+        "name": "Judge Kise(Moonlight)"
+    },
+    {
+        "code": "c0007",
+        "name": "Arbiter Vildred(Moonlight)"
+    },
+    {
+        "code": "c0012",
+        "name": "Dark Corvus(Moonlight)"
+    },
+    {
+        "code": "c0022",
+        "name": "Ruele of Light(Moonlight)"
+    },
+    {
+        "code": "c0047",
+        "name": "Martial Artist Ken(Moonlight)"
+    },
+    {
+        "code": "c0050",
+        "name": "Specter Tenebria(Moonlight)"
+    },
+    {
+        "code": "c1001",
+        "name": "Ras"
+    },
+    {
+        "code": "c1002",
+        "name": "Cecilia"
+    },
+    {
+        "code": "c1003",
+        "name": "Rose"
+    },
+    {
+        "code": "c1004",
+        "name": "Silk"
+    },
+    {
+        "code": "c1005",
+        "name": "Mercedes"
+    },
+    {
+        "code": "c1006",
+        "name": "Kise"
+    },
+    {
+        "code": "c1007",
+        "name": "Vildred"
+    },
+    {
+        "code": "c1008",
+        "name": "Armin"
+    },
+    {
+        "code": "c1009",
+        "name": "Charlotte"
+    },
+    {
+        "code": "c1010",
+        "name": "Zerato"
+    },
+    {
+        "code": "c1011",
+        "name": "Karin"
+    },
+    {
+        "code": "c1012",
+        "name": "Corvus"
+    },
+    {
+        "code": "c1013",
+        "name": "Cartuja"
+    },
+    {
+        "code": "c1014",
+        "name": "Cidd"
+    },
+    {
+        "code": "c1015",
+        "name": "Baal & Sezan"
+    },
+    {
+        "code": "c1016",
+        "name": "Yufine"
+    },
+    {
+        "code": "c1017",
+        "name": "Achates"
+    },
+    {
+        "code": "c1018",
+        "name": "Aither"
+    },
+    {
+        "code": "c1019",
+        "name": "Ravi"
+    },
+    {
+        "code": "c1020",
+        "name": "Schuri"
+    },
+    {
+        "code": "c1021",
+        "name": "Dingo"
+    },
+    {
+        "code": "c1022",
+        "name": "Ruele of Light"
+    },
+    {
+        "code": "c1023",
+        "name": "Kayron"
+    },
+    {
+        "code": "c1024",
+        "name": "Iseria"
+    },
+    {
+        "code": "c1027",
+        "name": "Charles"
+    },
+    {
+        "code": "c1028",
+        "name": "Clarissa"
+    },
+    {
+        "code": "c1029",
+        "name": "Leo"
+    },
+    {
+        "code": "c1030",
+        "name": "Yuna"
+    },
+    {
+        "code": "c1031",
+        "name": "Lots"
+    },
+    {
+        "code": "c1032",
+        "name": "Maya"
+    },
+    {
+        "code": "c1033",
+        "name": "Coli"
+    },
+    {
+        "code": "c1034",
+        "name": "Straze"
+    },
+    {
+        "code": "c1035",
+        "name": "Purrgis"
+    },
+    {
+        "code": "c1036",
+        "name": "Crozet"
+    },
+    {
+        "code": "c1037",
+        "name": "Dominiel"
+    },
+    {
+        "code": "c1038",
+        "name": "Sez"
+    },
+    {
+        "code": "c1039",
+        "name": "Haste"
+    },
+    {
+        "code": "c1040",
+        "name": "Serila"
+    },
+    {
+        "code": "c1042",
+        "name": "Tywin"
+    },
+    {
+        "code": "c1043",
+        "name": "Romann"
+    },
+    {
+        "code": "c1044",
+        "name": "Mui"
+    },
+    {
+        "code": "c1046",
+        "name": "Lidica"
+    },
+    {
+        "code": "c1047",
+        "name": "Ken"
+    },
+    {
+        "code": "c1048",
+        "name": "Aramintha"
+    },
+    {
+        "code": "c1049",
+        "name": "Chloe"
+    },
+    {
+        "code": "c1050",
+        "name": "Tenebria"
+    },
+    {
+        "code": "c1053",
+        "name": "Basar"
+    },
+    {
+        "code": "c1054",
+        "name": "Rin"
+    },
+    {
+        "code": "c1062",
+        "name": "Angelica"
+    },
+    {
+        "code": "c1065",
+        "name": "Surin"
+    },
+    {
+        "code": "c1066",
+        "name": "Luna"
+    },
+    {
+        "code": "c1067",
+        "name": "Tamarinne"
+    },
+    {
+        "code": "c1069",
+        "name": "Ludwig"
+    },
+    {
+        "code": "c1070",
+        "name": "Krau"
+    },
+    {
+        "code": "c1071",
+        "name": "Bellona"
+    },
+    {
+        "code": "c1072",
+        "name": "Sigret"
+    },
+    {
+        "code": "c1073",
+        "name": "Kawerik"
+    },
+    {
+        "code": "c1074",
+        "name": "Violet"
+    },
+    {
+        "code": "c1076",
+        "name": "Diene"
+    },
+    {
+        "code": "c1077",
+        "name": "Friedrich"
+    },
+    {
+        "code": "c1078",
+        "name": "Ras"
+    },
+    {
+        "code": "c1079",
+        "name": "Cermia"
+    },
+    {
+        "code": "c1080",
+        "name": "Pavel"
+    },
+    {
+        "code": "c1081",
+        "name": "Cerise"
+    },
+    {
+        "code": "c1082",
+        "name": "Luluca"
+    },
+    {
+        "code": "c1083",
+        "name": "Zeno"
+    },
+    {
+        "code": "c1085",
+        "name": "Khawazu"
+    },
+    {
+        "code": "c1086",
+        "name": "Khawana"
+    },
+    {
+        "code": "c1087",
+        "name": "Furious"
+    },
+    {
+        "code": "c1088",
+        "name": "Vivian"
+    },
+    {
+        "code": "c1089",
+        "name": "Lilias"
+    },
+    {
+        "code": "c1090",
+        "name": "Ray"
+    },
+    {
+        "code": "c1091",
+        "name": "Elena"
+    },
+    {
+        "code": "c1092",
+        "name": "Sol"
+    },
+    {
+        "code": "c1093",
+        "name": "Baiken"
+    },
+    {
+        "code": "c1094",
+        "name": "Dizzy"
+    },
+    {
+        "code": "c1095",
+        "name": "Lilibet"
+    },
+    {
+        "code": "c1096",
+        "name": "Melissa"
+    },
+    {
+        "code": "c1097",
+        "name": "Bomb Model Kanna"
+    },
+    {
+        "code": "c1098",
+        "name": "Support Model Brinus"
+    },
+    {
+        "code": "c1099",
+        "name": "Command Model Laika"
+    },
+    {
+        "code": "c1100",
+        "name": "Alencia"
+    },
+    {
+        "code": "c1101",
+        "name": "Choux"
+    },
+    {
+        "code": "c1102",
+        "name": "Roana"
+    },
+    {
+        "code": "c1103",
+        "name": "Celine"
+    },
+    {
+        "code": "c1104",
+        "name": "Mort"
+    },
+    {
+        "code": "c1105",
+        "name": "Elphelt"
+    },
+    {
+        "code": "c1106",
+        "name": "Senya"
+    },
+    {
+        "code": "c1107",
+        "name": "Kizuna AI"
+    },
+    {
+        "code": "c1108",
+        "name": "Ervalen"
+    },
+    {
+        "code": "c1109",
+        "name": "Landy"
+    },
+    {
+        "code": "c1110",
+        "name": "Flan"
+    },
+    {
+        "code": "c1111",
+        "name": "Eda"
+    },
+    {
+        "code": "c1112",
+        "name": "Politis"
+    },
+    {
+        "code": "c1113",
+        "name": "Ilynav"
+    },
+    {
+        "code": "c1114",
+        "name": "Rem"
+    },
+    {
+        "code": "c1115",
+        "name": "Ram"
+    },
+    {
+        "code": "c1116",
+        "name": "Emilia"
+    },
+    {
+        "code": "c1117",
+        "name": "Belian"
+    },
+    {
+        "code": "c1118",
+        "name": "Ran"
+    },
+    {
+        "code": "c1119",
+        "name": "Zahhak"
+    },
+    {
+        "code": "c1121",
+        "name": "Rimuru"
+    },
+    {
+        "code": "c1122",
+        "name": "Milim"
+    },
+    {
+        "code": "c1123",
+        "name": "Shuna"
+    },
+    {
+        "code": "c1124",
+        "name": "Arunka"
+    },
+    {
+        "code": "c1125",
+        "name": "Peira"
+    },
+    {
+        "code": "c1126",
+        "name": "Lua"
+    },
+    {
+        "code": "c1127",
+        "name": "Taeyou"
+    },
+    {
+        "code": "c1128",
+        "name": "Hwayoung"
+    },
+    {
+        "code": "c1129",
+        "name": "Aria"
+    },
+    {
+        "code": "c1130",
+        "name": "Jack-O'"
+    },
+    {
+        "code": "c1131",
+        "name": "Yulha"
+    },
+    {
+        "code": "c1132",
+        "name": "Sharun"
+    },
+    {
+        "code": "c1133",
+        "name": "Zio"
+    },
+    {
+        "code": "c1134",
+        "name": "Edward Elric"
+    },
+    {
+        "code": "c1135",
+        "name": "Roy Mustang"
+    },
+    {
+        "code": "c1136",
+        "name": "Riza Hawkeye"
+    },
+    {
+        "code": "c1137",
+        "name": "ae-KARINA"
+    },
+    {
+        "code": "c1138",
+        "name": "ae-GISELLE"
+    },
+    {
+        "code": "c1139",
+        "name": "ae-WINTER"
+    },
+    {
+        "code": "c1140",
+        "name": "ae-NINGNING"
+    },
+    {
+        "code": "c1141",
+        "name": "Beehoo"
+    },
+    {
+        "code": "c2002",
+        "name": "Fallen Cecilia"
+    },
+    {
+        "code": "c2003",
+        "name": "Shadow Rose"
+    },
+    {
+        "code": "c2004",
+        "name": "Wanderer Silk"
+    },
+    {
+        "code": "c2005",
+        "name": "Celestial Mercedes"
+    },
+    {
+        "code": "c2006",
+        "name": "Judge Kise"
+    },
+    {
+        "code": "c2007",
+        "name": "Arbiter Vildred"
+    },
+    {
+        "code": "c2008",
+        "name": "Crimson Armin"
+    },
+    {
+        "code": "c2009",
+        "name": "Little Queen Charlotte"
+    },
+    {
+        "code": "c2010",
+        "name": "Champion Zerato"
+    },
+    {
+        "code": "c2011",
+        "name": "Blood Blade Karin"
+    },
+    {
+        "code": "c2012",
+        "name": "Dark Corvus"
+    },
+    {
+        "code": "c2013",
+        "name": "Assassin Cartuja"
+    },
+    {
+        "code": "c2014",
+        "name": "Assassin Cidd"
+    },
+    {
+        "code": "c2015",
+        "name": "Sage Baal & Sezan"
+    },
+    {
+        "code": "c2017",
+        "name": "Shooting Star Achates"
+    },
+    {
+        "code": "c2018",
+        "name": "Guider Aither"
+    },
+    {
+        "code": "c2019",
+        "name": "Apocalypse Ravi"
+    },
+    {
+        "code": "c2020",
+        "name": "Watcher Schuri"
+    },
+    {
+        "code": "c2021",
+        "name": "Blaze Dingo"
+    },
+    {
+        "code": "c2022",
+        "name": "Destina"
+    },
+    {
+        "code": "c2024",
+        "name": "Briar Witch Iseria"
+    },
+    {
+        "code": "c2027",
+        "name": "Closer Charles"
+    },
+    {
+        "code": "c2028",
+        "name": "Kitty Clarissa"
+    },
+    {
+        "code": "c2029",
+        "name": "Roaming Warrior Leo"
+    },
+    {
+        "code": "c2031",
+        "name": "Auxiliary Lots"
+    },
+    {
+        "code": "c2032",
+        "name": "Fighter Maya"
+    },
+    {
+        "code": "c2033",
+        "name": "Assassin Coli"
+    },
+    {
+        "code": "c2035",
+        "name": "General Purrgis"
+    },
+    {
+        "code": "c2036",
+        "name": "Troublemaker Crozet"
+    },
+    {
+        "code": "c2037",
+        "name": "Challenger Dominiel"
+    },
+    {
+        "code": "c2038",
+        "name": "Specimen Sez"
+    },
+    {
+        "code": "c2039",
+        "name": "Blood Moon Haste"
+    },
+    {
+        "code": "c2042",
+        "name": "Ambitious Tywin"
+    },
+    {
+        "code": "c2043",
+        "name": "Benevolent Romann"
+    },
+    {
+        "code": "c2046",
+        "name": "Faithless Lidica"
+    },
+    {
+        "code": "c2047",
+        "name": "Martial Artist Ken"
+    },
+    {
+        "code": "c2048",
+        "name": "Silver Blade Aramintha"
+    },
+    {
+        "code": "c2049",
+        "name": "Maid Chloe"
+    },
+    {
+        "code": "c2050",
+        "name": "Specter Tenebria"
+    },
+    {
+        "code": "c2053",
+        "name": "Desert Jewel Basar"
+    },
+    {
+        "code": "c2054",
+        "name": "Crescent Moon Rin"
+    },
+    {
+        "code": "c2062",
+        "name": "Sinful Angelica"
+    },
+    {
+        "code": "c2065",
+        "name": "Tempest Surin"
+    },
+    {
+        "code": "c2070",
+        "name": "Last Rider Krau"
+    },
+    {
+        "code": "c2071",
+        "name": "Lone Crescent Bellona"
+    },
+    {
+        "code": "c2072",
+        "name": "Operator Sigret"
+    },
+    {
+        "code": "c2073",
+        "name": "Mediator Kawerik"
+    },
+    {
+        "code": "c2074",
+        "name": "Remnant Violet"
+    },
+    {
+        "code": "c2079",
+        "name": "Lionheart Cermia"
+    },
+    {
+        "code": "c2080",
+        "name": "Commander Pavel"
+    },
+    {
+        "code": "c2082",
+        "name": "Top Model Luluca"
+    },
+    {
+        "code": "c2085",
+        "name": "Inferno Khawazu"
+    },
+    {
+        "code": "c2086",
+        "name": "Great Chief Khawana"
+    },
+    {
+        "code": "c2087",
+        "name": "Peacemaker Furious"
+    },
+    {
+        "code": "c2088",
+        "name": "Sylvan Sage Vivian"
+    },
+    {
+        "code": "c2089",
+        "name": "Conqueror Lilias"
+    },
+    {
+        "code": "c2090",
+        "name": "Death Dealer Ray"
+    },
+    {
+        "code": "c2091",
+        "name": "Astromancer Elena"
+    },
+    {
+        "code": "c2095",
+        "name": "Designer Lilibet"
+    },
+    {
+        "code": "c2103",
+        "name": "Spirit Eye Celine"
+    },
+    {
+        "code": "c2110",
+        "name": "Pirate Captain Flan"
+    },
+    {
+        "code": "c2111",
+        "name": "Solitaria of the Snow"
+    },
+    {
+        "code": "c3001",
+        "name": "Butcher Corps Inquisitor"
+    },
+    {
+        "code": "c3002",
+        "name": "Taranor Royal Guard"
+    },
+    {
+        "code": "c3003",
+        "name": "Kluri"
+    },
+    {
+        "code": "c3004",
+        "name": "Arowell"
+    },
+    {
+        "code": "c3005",
+        "name": "Pyllis"
+    },
+    {
+        "code": "c3006",
+        "name": "Bask"
+    },
+    {
+        "code": "c3011",
+        "name": "Judith"
+    },
+    {
+        "code": "c3012",
+        "name": "Alexa"
+    },
+    {
+        "code": "c3013",
+        "name": "Roozid"
+    },
+    {
+        "code": "c3014",
+        "name": "Mirsa"
+    },
+    {
+        "code": "c3015",
+        "name": "Sven"
+    },
+    {
+        "code": "c3021",
+        "name": "Tieria"
+    },
+    {
+        "code": "c3022",
+        "name": "Enott"
+    },
+    {
+        "code": "c3023",
+        "name": "Helga"
+    },
+    {
+        "code": "c3024",
+        "name": "Gunther"
+    },
+    {
+        "code": "c3025",
+        "name": "Church of Ilryos Axe"
+    },
+    {
+        "code": "c3026",
+        "name": "Free Spirit Tieria"
+    },
+    {
+        "code": "c3031",
+        "name": "Azalea"
+    },
+    {
+        "code": "c3032",
+        "name": "Taranor Guard"
+    },
+    {
+        "code": "c3033",
+        "name": "Mucacha"
+    },
+    {
+        "code": "c3034",
+        "name": "Rikoris"
+    },
+    {
+        "code": "c3035",
+        "name": "Lorina"
+    },
+    {
+        "code": "c3041",
+        "name": "Hazel"
+    },
+    {
+        "code": "c3042",
+        "name": "Montmorancy"
+    },
+    {
+        "code": "c3043",
+        "name": "Adlay"
+    },
+    {
+        "code": "c3044",
+        "name": "Doris"
+    },
+    {
+        "code": "c3045",
+        "name": "Otillie"
+    },
+    {
+        "code": "c3051",
+        "name": "Carrot"
+    },
+    {
+        "code": "c3052",
+        "name": "Jena"
+    },
+    {
+        "code": "c3053",
+        "name": "Jecht"
+    },
+    {
+        "code": "c3054",
+        "name": "Elson"
+    },
+    {
+        "code": "c3055",
+        "name": "Hurado"
+    },
+    {
+        "code": "c3061",
+        "name": "Nemunas"
+    },
+    {
+        "code": "c3062",
+        "name": "Rima"
+    },
+    {
+        "code": "c3063",
+        "name": "Kiris"
+    },
+    {
+        "code": "c3064",
+        "name": "Celeste"
+    },
+    {
+        "code": "c3065",
+        "name": "Wanda"
+    },
+    {
+        "code": "c3071",
+        "name": "Carmainerose"
+    },
+    {
+        "code": "c3072",
+        "name": "Mistychain"
+    },
+    {
+        "code": "c3073",
+        "name": "Pearlhorizon"
+    },
+    {
+        "code": "c3074",
+        "name": "Gloomyrain"
+    },
+    {
+        "code": "c3075",
+        "name": "Requiemroar"
+    },
+    {
+        "code": "c3084",
+        "name": "Kikirat v2"
+    },
+    {
+        "code": "c3091",
+        "name": "Hataan"
+    },
+    {
+        "code": "c3092",
+        "name": "Lena"
+    },
+    {
+        "code": "c3093",
+        "name": "Ains"
+    },
+    {
+        "code": "c3094",
+        "name": "Eaton"
+    },
+    {
+        "code": "c3095",
+        "name": "Batisse"
+    },
+    {
+        "code": "c3101",
+        "name": "Godmother"
+    },
+    {
+        "code": "c3102",
+        "name": "Ian"
+    },
+    {
+        "code": "c3103",
+        "name": "Glenn"
+    },
+    {
+        "code": "c3104",
+        "name": "Sonia"
+    },
+    {
+        "code": "c3105",
+        "name": "Ainos"
+    },
+    {
+        "code": "c3113",
+        "name": "Lucy"
+    },
+    {
+        "code": "c3121",
+        "name": "Melany"
+    },
+    {
+        "code": "c3122",
+        "name": "Helen"
+    },
+    {
+        "code": "c3123",
+        "name": "Christy"
+    },
+    {
+        "code": "c3124",
+        "name": "Camilla"
+    },
+    {
+        "code": "c3125",
+        "name": "Penelope"
+    },
+    {
+        "code": "c3131",
+        "name": "Januta"
+    },
+    {
+        "code": "c3132",
+        "name": "Muwi"
+    },
+    {
+        "code": "c3133",
+        "name": "Orte"
+    },
+    {
+        "code": "c3134",
+        "name": "Yoonryoung"
+    },
+    {
+        "code": "c3135",
+        "name": "Hasol"
+    },
+    {
+        "code": "c3143",
+        "name": "Adin"
+    },
+    {
+        "code": "c3151",
+        "name": "Juni"
+    },
+    {
+        "code": "c3152",
+        "name": "Talaz"
+    },
+    {
+        "code": "c3153",
+        "name": "Lilka"
+    },
+    {
+        "code": "c3154",
+        "name": "Talia"
+    },
+    {
+        "code": "c3155",
+        "name": "Suthan"
+    },
+    {
+        "code": "c4001",
+        "name": "Chaos Inquisitor"
+    },
+    {
+        "code": "c4003",
+        "name": "Falconer Kluri"
+    },
+    {
+        "code": "c4004",
+        "name": "Unbound Knight Arowell"
+    },
+    {
+        "code": "c4005",
+        "name": "Shadow Knight Pyllis"
+    },
+    {
+        "code": "c4012",
+        "name": "Summer's Disciple Alexa"
+    },
+    {
+        "code": "c4013",
+        "name": "Righteous Thief Roozid"
+    },
+    {
+        "code": "c4023",
+        "name": "Mercenary Helga"
+    },
+    {
+        "code": "c4025",
+        "name": "Chaos Sect Axe"
+    },
+    {
+        "code": "c4034",
+        "name": "Captain Rikoris"
+    },
+    {
+        "code": "c4035",
+        "name": "Commander Lorina"
+    },
+    {
+        "code": "c4041",
+        "name": "Mascot Hazel"
+    },
+    {
+        "code": "c4042",
+        "name": "Angelic Montmorancy"
+    },
+    {
+        "code": "c4044",
+        "name": "Magic Scholar Doris"
+    },
+    {
+        "code": "c4051",
+        "name": "Researcher Carrot"
+    },
+    {
+        "code": "c4052",
+        "name": "Shepherd Jena"
+    },
+    {
+        "code": "c4062",
+        "name": "Muse Rima"
+    },
+    {
+        "code": "c4065",
+        "name": "All-Rounder Wanda"
+    },
+    {
+        "code": "c4071",
+        "name": "Zealot Carmainerose"
+    },
+    {
+        "code": "c4073",
+        "name": "Doll Maker Pearlhorizon"
+    },
+    {
+        "code": "c4103",
+        "name": "Vigilante Leader Glenn"
+    },
+    {
+        "code": "c4141",
+        "name": "Holy Flame Adin"
+    },
+    {
+        "code": "c4142",
+        "name": "Serene Purity Adin"
+    },
+    {
+        "code": "c4143",
+        "name": "Verdant Adin"
+    },
+    {
+        "code": "c4144",
+        "name": "Savior Adin"
+    },
+    {
+        "code": "c5001",
+        "name": "Adventurer Ras"
+    },
+    {
+        "code": "c5004",
+        "name": "Archdemon's Shadow"
+    },
+    {
+        "code": "c5009",
+        "name": "Summer Break Charlotte"
+    },
+    {
+        "code": "c5016",
+        "name": "Holiday Yufine"
+    },
+    {
+        "code": "c5024",
+        "name": "Summertime Iseria"
+    },
+    {
+        "code": "c5050",
+        "name": "Fairytale Tenebria"
+    },
+    {
+        "code": "c5071",
+        "name": "Seaside Bellona"
+    },
+    {
+        "code": "c6008",
+        "name": "Bad Cat Armin"
+    },
+    {
+        "code": "c6037",
+        "name": "Moon Bunny Dominiel"
+    },
+    {
+        "code": "c6062",
+        "name": "Angel of Light Angelica"
+    },
+    {
+        "code": "m0114",
+        "name": "White Night Keeper"
+    },
+    {
+        "code": "m0115",
+        "name": "Nightmare Keeper"
+    },
+    {
+        "code": "m0211",
+        "name": "Cele Gigantes"
+    },
+    {
+        "code": "m0212",
+        "name": "Aranea Gigantes"
+    },
+    {
+        "code": "m0213",
+        "name": "Porpex Gigantes"
+    },
+    {
+        "code": "m0214",
+        "name": "Orichalcum Gigantes"
+    },
+    {
+        "code": "m0215",
+        "name": "Inpectio Gigantes"
+    },
+    {
+        "code": "m0221",
+        "name": "Cele Minister"
+    },
+    {
+        "code": "m0222",
+        "name": "Aranea Minister"
+    },
+    {
+        "code": "m0223",
+        "name": "Porpex Minister"
+    },
+    {
+        "code": "m0224",
+        "name": "Orichalcum Minister"
+    },
+    {
+        "code": "m0225",
+        "name": "Inpectio Minister"
+    },
+    {
+        "code": "m0231",
+        "name": "Blood Ridge Naga"
+    },
+    {
+        "code": "m0232",
+        "name": "Poison Naga"
+    },
+    {
+        "code": "m0233",
+        "name": "Dry Leaf Naga"
+    },
+    {
+        "code": "m0234",
+        "name": "Brass Rock Naga"
+    },
+    {
+        "code": "m0235",
+        "name": "Purple Moss Naga"
+    },
+    {
+        "code": "m0241",
+        "name": "Crimson Pherus"
+    },
+    {
+        "code": "m0242",
+        "name": "Valley Pherus"
+    },
+    {
+        "code": "m0243",
+        "name": "Wind Pherus"
+    },
+    {
+        "code": "m0244",
+        "name": "Golden Pherus"
+    },
+    {
+        "code": "m0245",
+        "name": "Midnight Pherus"
+    },
+    {
+        "code": "m0261",
+        "name": "Burning Eye Lich"
+    },
+    {
+        "code": "m0262",
+        "name": "Cold Eye Lich"
+    },
+    {
+        "code": "m0263",
+        "name": "Bubbly Eye Lich"
+    },
+    {
+        "code": "m0264",
+        "name": "Brass Eye Lich"
+    },
+    {
+        "code": "m0265",
+        "name": "Blind Eye Lich"
+    },
+    {
+        "code": "m0281",
+        "name": "Blood-Skull Warlock"
+    },
+    {
+        "code": "m0282",
+        "name": "Steel-Skull Warlock"
+    },
+    {
+        "code": "m0283",
+        "name": "Mud-Skull Warlock"
+    },
+    {
+        "code": "m0284",
+        "name": "Rust-Skull Warlock"
+    },
+    {
+        "code": "m0285",
+        "name": "Dusk-Skull Warlock"
+    },
+    {
+        "code": "m0351",
+        "name": "Fiery Caides"
+    },
+    {
+        "code": "m0352",
+        "name": "Frost Caides"
+    },
+    {
+        "code": "m0353",
+        "name": "Greedy Caides"
+    },
+    {
+        "code": "m0354",
+        "name": "Converted Caides"
+    },
+    {
+        "code": "m0355",
+        "name": "Jealous Caides"
+    },
+    {
+        "code": "m0361",
+        "name": "Heat Symaqus"
+    },
+    {
+        "code": "m0362",
+        "name": "Frost Symaqus"
+    },
+    {
+        "code": "m0363",
+        "name": "Greedy Symaqus"
+    },
+    {
+        "code": "m0364",
+        "name": "Converted Symaqus"
+    },
+    {
+        "code": "m0365",
+        "name": "Jealous Symaqus"
+    },
+    {
+        "code": "m0371",
+        "name": "Heat Aztesta"
+    },
+    {
+        "code": "m0372",
+        "name": "Frost Aztesta"
+    },
+    {
+        "code": "m0373",
+        "name": "Greedy Aztesta"
+    },
+    {
+        "code": "m0374",
+        "name": "Converted Aztesta"
+    },
+    {
+        "code": "m0375",
+        "name": "Jealous Aztesta"
+    },
+    {
+        "code": "m8001",
+        "name": "MolaGoraGo"
+    },
+    {
+        "code": "m8002",
+        "name": "MolaGora"
+    },
+    {
+        "code": "m8003",
+        "name": "MolaGoraGora"
+    },
+    {
+        "code": "m8031",
+        "name": "Fire Spirit Penguin"
+    },
+    {
+        "code": "m8032",
+        "name": "Winter Fragment Penguin"
+    },
+    {
+        "code": "m8033",
+        "name": "Blade Dash Penguin"
+    },
+    {
+        "code": "m8034",
+        "name": "Shooting Star Penguin"
+    },
+    {
+        "code": "m8035",
+        "name": "Dark Beak Penguin"
+    },
+    {
+        "code": "m8042",
+        "name": "Giga-Phantasma"
+    },
+    {
+        "code": "m8043",
+        "name": "Tera-Phantasma"
+    },
+    {
+        "code": "m8056",
+        "name": "Shadow Hero Penguin"
+    },
+    {
+        "code": "m8066",
+        "name": "White Knight Penguin"
+    },
+    {
+        "code": "m9001",
+        "name": "Bronze Rubeta"
+    },
+    {
+        "code": "m9002",
+        "name": "Steel Rubeta"
+    },
+    {
+        "code": "m9003",
+        "name": "Emerald Rubeta"
+    },
+    {
+        "code": "m9004",
+        "name": "Lapis Rubeta"
+    },
+    {
+        "code": "m9005",
+        "name": "White Rubeta"
+    },
+    {
+        "code": "m9006",
+        "name": "Obsidian Rubeta"
+    },
+    {
+        "code": "m9007",
+        "name": "Zerom Colossus"
+    },
+    {
+        "code": "m9008",
+        "name": "Jet Colossus"
+    },
+    {
+        "code": "m9009",
+        "name": "Chocolossus"
+    },
+    {
+        "code": "m9011",
+        "name": "Ruby Wyvern"
+    },
+    {
+        "code": "m9012",
+        "name": "Copper Wyvern"
+    },
+    {
+        "code": "m9013",
+        "name": "Zircon Wyvern"
+    },
+    {
+        "code": "m9014",
+        "name": "Obsidian Wyvern"
+    },
+    {
+        "code": "m9015",
+        "name": "Sapphire Wyvern"
+    },
+    {
+        "code": "m9016",
+        "name": "Lord's Wyvern"
+    },
+    {
+        "code": "m9017",
+        "name": "Onix Wyvern"
+    },
+    {
+        "code": "m9018",
+        "name": "Larimar Wyvern"
+    },
+    {
+        "code": "m9171",
+        "name": "Banshee Queen Rubellite"
+    },
+    {
+        "code": "m9172",
+        "name": "Banshee Queen Sodalite"
+    },
+    {
+        "code": "m9173",
+        "name": "Banshee Queen Frenite"
+    },
+    {
+        "code": "m9174",
+        "name": "Banshee Queen Danburite"
+    },
+    {
+        "code": "m9175",
+        "name": "Banshee Queen Amethyst"
+    },
+    {
+        "code": "m9176",
+        "name": "Banshee Queen Phenakite"
+    },
+    {
+        "code": "m9177",
+        "name": "Banshee Lord Starlight"
+    },
+    {
+        "code": "m9178",
+        "name": "Banshee Lord Dustlight"
+    },
+    {
+        "code": "m9181",
+        "name": "Magnar of the Flame"
+    },
+    {
+        "code": "m9182",
+        "name": "Aquina of the Sea"
+    },
+    {
+        "code": "m9183",
+        "name": "Herais of the Wind"
+    },
+    {
+        "code": "m9184",
+        "name": "Ethel of the Light"
+    },
+    {
+        "code": "m9185",
+        "name": "Rahel of the Dark"
+    },
+    {
+        "code": "m9191",
+        "name": "Nilgal"
+    },
+    {
+        "code": "m9192",
+        "name": "Scorpetra"
+    },
+    {
+        "code": "m9194",
+        "name": "Archdemon Mercedes"
+    },
+    {
+        "code": "m9195",
+        "name": "Dazzled Magnar"
+    },
+    {
+        "code": "m9196",
+        "name": "Executioner Karkanis"
+    },
+    {
+        "code": "m9197",
+        "name": "Juleeve Council"
+    },
+    {
+        "code": "m9198",
+        "name": "Secretary Vera"
+    },
+    {
+        "code": "m9199",
+        "name": "Devourer Arahakan"
+    },
+    {
+        "code": "m9200",
+        "name": "Queen Azumashik"
+    },
+    {
+        "code": "m9202",
+        "name": "Incomplete Fastus"
+    },
+    {
+        "code": "m9211",
+        "name": "Ral Azimanak"
+    },
+    {
+        "code": "m9212",
+        "name": "Nath Azimanak"
+    },
+    {
+        "code": "m9213",
+        "name": "Anak Azimanak"
+    },
+    {
+        "code": "m9214",
+        "name": "Razimanak"
+    },
+    {
+        "code": "m9215",
+        "name": "Bashumanak"
+    },
+    {
+        "code": "m9216",
+        "name": "Warlord Azimanum"
+    },
+    {
+        "code": "m9217",
+        "name": "Scornful Gaze Brassia"
+    },
+    {
+        "code": "m9218",
+        "name": "Fanatical Gaze Nikelia"
+    },
+    {
+        "code": "m9219",
+        "name": "Rebel King Azimatas"
+    },
+    {
+        "code": "m9220",
+        "name": "Nameless Mad Dragon"
+    },
+    {
+        "code": "m9221",
+        "name": "Agonizing Caides"
+    },
+    {
+        "code": "m9222",
+        "name": "Arrogant Caides"
+    },
+    {
+        "code": "m9223",
+        "name": "Converted Caides"
+    },
+    {
+        "code": "m9224",
+        "name": "Hateful Caides"
+    },
+    {
+        "code": "m9225",
+        "name": "Enraged Caides"
+    },
+    {
+        "code": "c1143",
+        "name": "Amid"
+    },
+    {
+        "code": "m9226",
+        "name": "Hopeless Caides"
+    },
+    {
+        "code": "m9227",
+        "name": "Heinous Caides"
+    },
+    {
+        "code": "m9230",
+        "name": "Executioner Karkanis"
+    },
+    {
+        "code": "m9231",
+        "name": "Juleeve Council"
+    },
+    {
+        "code": "m9232",
+        "name": "Secretary Vera"
+    },
+    {
+        "code": "m9233",
+        "name": "Devourer Arahakan"
+    },
+    {
+        "code": "m9234",
+        "name": "Queen Azumashik"
+    },
+    {
+        "code": "m9235",
+        "name": "Undefined"
+    },
+    {
+        "code": "m0246",
+        "name": "Undefined"
+    },
+    {
+        "code": "m0247",
+        "name": "Undefined"
+    },
+    {
+        "code": "m0266",
+        "name": "Undefined"
+    },
+    {
+        "code": "m0366",
+        "name": "Undefined"
+    },
+    {
+        "code": "c1142",
+        "name": "Eligos"
+    },
+    {
+        "code": "c2099",
+        "name": "Architect Laika"
+    },
+    {
+        "code": "c4105",
+        "name": "Ainos 2.0"
+    },
+    {
+        "code": "c2023",
+        "name": "Twisted Eidolon Kayron"
+    },
+    {
+        "code": "c1146",
+        "name": "Benimaru"
+    },
+    {
+        "code": "c1144",
+        "name": "Abigail"
+    },
+    {
+        "code": "c6011",
+        "name": "Last Piece Karin"
+    },
+    {
+        "code": "c2102",
+        "name": "Requiem Roana"
+    },
+    {
+        "code": "c5082",
+        "name": "Ocean Breeze Luluca"
+    },
+    {
+        "code": "c2109",
+        "name": "Navy Captain Landy"
+    },
+    {
+        "code": "m9238",
+        "name": "Kroscilla"
+    },
+    {
+        "code": "c5149",
+        "name": "Lethe"
+    },
+    {
+        "code": "c6017",
+        "name": "Infinite Horizon Achates"
+    },
+    {
+        "code": "c5089",
+        "name": "Midnight Gala Lilias"
+    },
+    {
+        "code": "c0073",
+        "name": "Mediator Kawerik(Moonlight)"
+    },
+    {
+        "code": "c0074",
+        "name": "Remnant Violet(Moonlight)"
+    },
+    {
+        "code": "c0080",
+        "name": "Commander Pavel(Moonlight)"
+    },
+    {
+        "code": "c0088",
+        "name": "Sylvan Sage Vivian(Moonlight)"
+    },
+    {
+        "code": "c0089",
+        "name": "Conqueror Lilias(Moonlight)"
+    },
+    {
+        "code": "c0090",
+        "name": "Death Dealer Ray(Moonlight)"
+    },
+    {
+        "code": "c0091",
+        "name": "Astromancer Elena(Moonlight)"
+    },
+    {
+        "code": "c1145",
+        "name": "Brieg"
+    },
+    {
+        "code": "c1150",
+        "name": "Veronica"
+    },
+    {
+        "code": "c2101",
+        "name": "Urban Shadow Choux"
+    },
+    {
+        "code": "m9236",
+        "name": "Beast of Anguish"
+    },
+    {
+        "code": "m9237",
+        "name": "Beast of Dread"
+    }
+]
