@@ -42,13 +42,13 @@ with open(csv_file, mode='r', encoding='utf-8') as file:
                         result_database[user_name][enemy_nick]['Loss Turn 0' if turn == 0 else 'Loss Turn 1'] += 1
                         if result_database[user_name][enemy_nick]['Rank'] == "blank":
                             result_database[user_name][enemy_nick]['Rank'] = battle['grade_code']
-                        result_database[user_name][enemy_nick]['enemy_Id'] = battle['matchPlayerNicknameno']
+                            result_database[user_name][enemy_nick]['Enemy id'] = battle['matchPlayerNicknameno']
                         
                     elif is_win == 1 and (turn == 0 or turn == 1):
                         result_database[user_name][enemy_nick]['Win Turn 0' if turn == 0 else 'Win Turn 1'] += 1
                         if result_database[user_name][enemy_nick]['Rank'] == "blank":
                             result_database[user_name][enemy_nick]['Rank'] = battle['grade_code']
-                        result_database[user_name][enemy_nick]['enemy_Id'] = battle['matchPlayerNicknameno']      
+                            result_database[user_name][enemy_nick]['Enemy id'] = battle['matchPlayerNicknameno']
         except Exception as e:
             #print(f"{user_name} has no battle history: {non_rta_player}")
             non_rta_player += 1
@@ -59,7 +59,7 @@ with open(csv_file, mode='r', encoding='utf-8') as file:
         if processed_user_count == 100:
                 # Write the result database to the CSV file
             with open(output_file, mode='a', encoding='utf-8', newline='') as output_csv:
-                fieldnames = ['Name', 'id', 'Enemy Nick', 'enemyId','rank', 'Loss Turn 0', 'Loss Turn 1', 'Win Turn 0', 'Win Turn 1', 'Total Loss', 'Total Win']
+                fieldnames = ['Name', 'id', 'Enemy Nick', 'Enemy id','Rank', 'Loss Turn 0', 'Loss Turn 1', 'Win Turn 0', 'Win Turn 1', 'Total Loss', 'Total Win']
                 csv_writer = csv.DictWriter(output_csv, fieldnames=fieldnames)
 
                 # Write the header row only if the file is empty
@@ -72,8 +72,8 @@ with open(csv_file, mode='r', encoding='utf-8') as file:
                             'Name': name,
                             'id': user_id,
                             'Enemy Nick': enemy_nick,
-                            'enemyId': stats['enemy_id'],
-                            'rank': stats['Rank'],
+                            'Enemy id': stats['Enemy id'],
+                            'Rank': stats['Rank'],
                             'Loss Turn 0': stats['Loss Turn 0'],
                             'Loss Turn 1': stats['Loss Turn 1'],
                             'Win Turn 0': stats['Win Turn 0'],
@@ -92,7 +92,7 @@ with open(csv_file, mode='r', encoding='utf-8') as file:
 if processed_user_count > 0:
     # Write the result database to the CSV file
     with open(output_file, mode='a', encoding='utf-8', newline='') as output_csv:
-        fieldnames = ['Name', 'id', 'Enemy Nick', 'enemyId','rank', 'Loss Turn 0', 'Loss Turn 1', 'Win Turn 0', 'Win Turn 1', 'Total Loss', 'Total Win']
+        fieldnames = ['Name', 'id', 'Enemy Nick', 'Enemy id','Rank', 'Loss Turn 0', 'Loss Turn 1', 'Win Turn 0', 'Win Turn 1', 'Total Loss', 'Total Win']
         csv_writer = csv.DictWriter(output_csv, fieldnames=fieldnames)
 
         # Write the header row only if the file is empty
@@ -105,8 +105,8 @@ if processed_user_count > 0:
                     'Name': name,
                     'id': user_id,
                     'Enemy Nick': enemy_nick,
-                    'enemyId': stats['enemy_id'],
-                    'rank': stats['Rank'],
+                    'Enemy id': stats['Enemy id'],
+                    'Rank': stats['Rank'],
                     'Loss Turn 0': stats['Loss Turn 0'],
                     'Loss Turn 1': stats['Loss Turn 1'],
                     'Win Turn 0': stats['Win Turn 0'],
